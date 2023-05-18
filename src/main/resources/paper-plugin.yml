@@ -1,0 +1,5 @@
+name: paperkt-example
+version: ${version}
+main: dev.eyrond.paperkt.example.ExamplePlugin
+description: PaperKt example plugin
+api-version: 1.19
